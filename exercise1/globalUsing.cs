@@ -1,0 +1,20 @@
+﻿global using System;
+global using exercise1.models.config;
+global using exercise1.Controllers;
+global using exercise1.models.DataEntities;
+global using exercise1.Services;
+global using exercise1.Contracts;
+global using System.Text.Json;
+global using exercise1.endPoints;
+global using exercise1.infra.DbContex;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Http.HttpResults;
+global using Microsoft.VisualBasic;
+global using exercise1.models.Dto;
+global using AutoMapper;
+global using exercise1.MappingProfiles;
+global using exercise1.Validations;
+global using FluentValidation;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
+
